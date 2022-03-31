@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello everyone! And thank you for stopping by my github!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My name is Boris, a lead educator for data science at BrainStation. My interests include Bayesian Programming, Time-series Forecasting, and using linear models to their full extent!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bshabash@brainstation.io](mailto:bshabash@brainstation.io)
